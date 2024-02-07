@@ -1,4 +1,4 @@
-from MercadoPy.utils.helper import formata_float_str_moeda
+from Projeto_Python_2_Mercado.MercadoPy.utils.helper import formata_float_str_moeda
 
 
 class Produto:
