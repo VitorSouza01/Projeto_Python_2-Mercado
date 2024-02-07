@@ -13,3 +13,8 @@ Link do curso: https://www.udemy.com/course/curso-de-programacao-em-python-do-ba
 - Python
 
 ## 🖼️ Imagens
+![mercado_001](https://github.com/VitorSouza01/Projeto_Python_2-Mercado/assets/104541182/dabd2b52-066c-4457-94d8-82029d6f9d29)
+![mercado_002](https://github.com/VitorSouza01/Projeto_Python_2-Mercado/assets/104541182/5303084f-48b4-4c90-8baa-0d49b72698b8)
+![mercado_003](https://github.com/VitorSouza01/Projeto_Python_2-Mercado/assets/104541182/15851509-1c2a-4ae5-9321-3f5750546518)
+![mercado_004](https://github.com/VitorSouza01/Projeto_Python_2-Mercado/assets/104541182/98a706ee-bff8-4389-bfe7-42f1fdaa11c2)
+![mercado_005](https://github.com/VitorSouza01/Projeto_Python_2-Mercado/assets/104541182/578f893e-4cf3-485b-9cb3-d3ea17b11666)
